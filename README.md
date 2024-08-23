@@ -1,2 +1,2 @@
-#Designing pipelined Cordic
+# Designing pipelined Cordic
 
